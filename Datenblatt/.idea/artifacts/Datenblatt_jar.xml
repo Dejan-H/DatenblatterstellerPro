@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Datenblatt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Datenblatt_jar</output-path>
+    <root id="archive" name="Datenblatt.jar">
+      <element id="module-output" name="Datenblatt" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/pdfbox-tools-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/pdfbox-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/fontbox-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/preflight-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/xmpbox-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/org.eclipse.swt-3.1.jar/org.eclipse.swt-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/iText7-pdfHtml-4.0.5-only-jars/html2pdf-4.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itextpdf-5.5.13.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/pdf-renderer.jar/pdf-renderer.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

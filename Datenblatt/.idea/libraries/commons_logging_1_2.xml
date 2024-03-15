@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/fontbox-2.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/html2pdf-4.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/itextpdf-5.5.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/org.eclipse.swt-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/pdf-renderer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/pdfbox-2.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/pdfbox-tools-2.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/preflight-2.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JAR-Libs/xmpbox-2.0.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

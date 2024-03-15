@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kenai.nbpwr.sun.pdfview" type="repository">
+    <properties maven-id="com.kenai.nbpwr:com-sun-pdfview:1.0.5-201003191900" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com-sun-pdfview-1.0.5-201003191900.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pdf-renderer-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

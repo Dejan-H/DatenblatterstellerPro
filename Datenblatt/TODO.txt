@@ -1,0 +1,13 @@
+TODO:
+- Vorschau lässt sich nur einmal aktualisieren
+  > kein Dateizugriff
+- Einzeiligen freien Text hinzufügen
+  > Besonderheiten / Extras (z.B.: Office-Paket)
+- Displaygrößen angeben
+- Erkennen, ob bereits eine Instanz läuft, und dann nicht starten, um Fehler zu vermeiden
+  > https://blog.bigbasti.com/prufen-ob-ein-eigenes-programm-bereits-geoffnet-ist/
+- Benutzerdefinierte Listen:
+  > Datenträgertypen
+  > Dynamische Datenträgergrößen, usw...
+- Druck in andere Formate
+  > z.B.: A5, A6, 10x15
